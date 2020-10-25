@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 I recently finished a DPhil in inorganic chemistry, and am currently working as a postdoc in bioinorganic chemistry.
+(Under construction.)
