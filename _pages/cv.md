@@ -22,46 +22,26 @@ Research experience
   * Supervisor: Professor Git
 
 * **Oxford University**: DPhil in Inorganic Chemistry (2014 - 2018)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Under construction
   
 * **Freie Universität Berlin**: Research Visitor (04/2013 - 06/2013)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Under construction
   
 * **Oxford University**: Research Visitor (06/2012 - 08/2012)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Under construction
   
 * **Oxford University**: DPhil in Inorganic Chemistry (2014 - 2018)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Under construction
   
 * **Oxford University**: MChem Project (09/2011 - 06/2012)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Under construction
   
 * **Ruprecht-Karls-Universität Heidelberg**: RISE Intern (07/2011 - 09/2011)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Under construction
   
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Under construction
   
 Skills
 ======
