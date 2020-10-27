@@ -14,6 +14,50 @@ Education
 * MChem in Chemistry, **Oxford University**, (*The Queen's College*) 2012
 * DPhil in Inorganic Chemistry, **Oxford University**, (*The Queen's College*) 2018
 
+Research experience
+======
+* University of Sydney  
+Postdoctoral Research Associate in Bio-inorganic Chemistry (10/2019 - present)
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Oxford University  
+DPhil in Inorganic Chemistry (2014 - 2018)
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* Freie Universität Berlin  
+Research Visitor (04/2013 - 06/2013)
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* Oxford University  
+Research Visitor (06/2012 - 08/2012)
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* Oxford University  
+DPhil in Inorganic Chemistry (2014 - 2018)
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* Oxford University  
+MChem Project (09/2011 - 06/2012)
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* Ruprecht-Karls-Universität Heidelberg  
+RISE Intern (07/2011 - 09/2011)
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
 Work experience
 ======
 * Summer 2015: Research Assistant
