@@ -10,4 +10,4 @@ redirect_from:
 
 I recently finished a DPhil in inorganic chemistry, and am currently working as a postdoc in bioinorganic chemistry.
   
-(Under construction.)
+Under construction, so please see my website or research profiles (links on the left bar) for more details.
