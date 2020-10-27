@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MChem in Chemistry, Oxford University, 2012
-* DPhil in Inorganic Chemistry, Oxford University, 2018
+* MChem in Chemistry, **Oxford University**, (*The Queen's College*) 2012
+* DPhil in Inorganic Chemistry, **Oxford University**, (*The Queen's College*) 2018
 
 Work experience
 ======
